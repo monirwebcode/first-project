@@ -1,0 +1,13 @@
+p{
+  font-size: 20px;
+  color: blue;
+  text-align: center;
+  font-weight: bold;
+  text-transform: uppercase;
+  background-color: rgba(189, 0, 0, 0.353);
+}
+h1{
+  font-size: 30px;
+  background-color: aquamarine;
+  color: brown;
+}
